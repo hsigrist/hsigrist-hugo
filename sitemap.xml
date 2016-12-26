@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://hsigrist.github.io/journal/2016/enlaces/</loc>
+    <lastmod>2016-12-25T21:07:41-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hsigrist.github.io/docencia/2016/FM22016/</loc>
+    <lastmod>2016-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hsigrist.github.io/docencia/2016/CEAL12016/</loc>
+    <lastmod>2016-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hsigrist.github.io/docencia/2016/BIC12016/</loc>
+    <lastmod>2016-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hsigrist.github.io/docencia/2016/CE12016/</loc>
+    <lastmod>2016-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hsigrist.github.io/docencia/2016/TES12016/</loc>
+    <lastmod>2016-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hsigrist.github.io/lecturas/bpa/</loc>
+    <lastmod>2016-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hsigrist.github.io/lecturas/falacias/</loc>
+    <lastmod>2016-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hsigrist.github.io/journal/2016/vitae/</loc>
+    <lastmod>2015-12-31T15:25:41-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hsigrist.github.io/docencia/2010/MAT1-12010/</loc>
+    <lastmod>2010-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hsigrist.github.io/docencia/2010/MN12010/</loc>
+    <lastmod>2010-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hsigrist.github.io/docencia/2010/RE12010/</loc>
+    <lastmod>2010-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hsigrist.github.io/docencia/</loc>
+    <lastmod>2016-07-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hsigrist.github.io/journal/</loc>
+    <lastmod>2016-12-25T21:07:41-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hsigrist.github.io/lecturas/</loc>
+    <lastmod>2016-02-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hsigrist.github.io/</loc>
+    <lastmod>2016-12-25T21:07:41-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

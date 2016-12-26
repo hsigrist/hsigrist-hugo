@@ -1,0 +1,105 @@
+#+TITLE: 3MTP2016
+#+AUTHOR: Hans Sigrist
+#+EMAIL: hsigrist@gmail.com
+#+DATE: Wed Feb 24 01:43:20 2016
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:t
+#+OPTIONS: html-preamble:t html-scripts:t html-style:t
+#+OPTIONS: html5-fancy:nil tex:t
+#+OPTIONS: toc:nil num:t
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_CONTAINER: div
+#+DESCRIPTION: Página del tercer nivel (3M) de enseñanza-aprendizaje de la Formación Diferenciada Técnico Profesional (TP).
+#+KEYWORDS: enseñanza media, tercero medio, matemática, técnico profesional, TP, 3M, habilidades blandas, pensamiento crítico, habilidades siglo XXI
+#+HTML_LINK_HOME: http://hsigrist.github.io
+#+HTML_LINK_UP: http://hsigrist.github.io/docencia/
+#+HTML_MATHJAX: path:"https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+#+HTML_HEAD: <link rel="stylesheet" href="grump3mtp2016.css" />
+#+HTML_HEAD_EXTRA: <meta name="robots" content="INDEX,NOFOLLOW" />
+#+SUBTITLE: Otoño 2016 - Prof. Hans Sigrist
+#+LANGUAGE: es
+
+#+NAME: file:42murales_ilapel
+#+CAPTION: Mural del Liceo Politécnico Pablo Rodríguez, Illapel, Choapa. Proyecto 42 Murales por la Educación Técnico Profesional, Mineduc.
+[[file:42murales_illapel.png]]
+
+#+BEGIN_ABSTRACT
+Hola, bienvenidos! Reciban todos y todas un cordial saludo. En este espacio, denominado 3M, se alojan los recursos, datos, videos y experiencias de mi enseñanza-aprendizaje de la *Matemática*, dirigido a la *Formación Diferenciada Técnico Profesional* (TP), en particular para el /tercer nivel/ de enseñanza media (3M). Se trata de una *expedición de aprendizaje* (Expeditional Learning, EL por sus siglas en inglés), en este sentido, se plantea el aprendizaje como un desafío, que pone el foco en la investigación de las distintas unidades didácticas. El carácter dialógico (asíncrono, por demás) se expresa en elementos del *Pensamiento Crítico* (Richard Paul & Linda Elder, 2005) unido a formas del pensamiento de orden superior (Taxonomía Bloom, revisión Anderson & Krathwohl, 2001), ambas, *habilidades propias de la sociedad del siglo XXI*. Como proyecto en curso, algunos recursos no estarán disponibles hasta su concreción, que de paso, primero la evidencio en aula y luego la socializo en este espacio. Espero sea un buen momento de aprendizaje! Los espero!
+#+END_ABSTRACT
+
+#+BEGIN_HTML
+<iframe width="853" height="480" src="https://www.youtube.com/embed/8p57txjWvn4?rel=0" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
+
+#+TOC: headlines 1
+
+* Agenda
+****** PROYECT <2016-07-31 Sun>                            :semestre:lectivo:
+DEADLINE: <2016-12-02 Fri> SCHEDULED: <2016-07-18 Mon>
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+El actual segundo semestre lectivo, involucra desde este año 4 horas pedagógicas, de modo que es posible administrar el tiempo y los espacios de mejor manera. 
+****** NOVEDADES <2016-07-31 Sun>                      :inicio:proyecto:
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+Puesta en marcha del Proyecto 3M, revise periódicamente esta sección para obtener actualizaciones del sitio. Cordiales saludos, Profe Hans.
+
+* Números Complejos
+#+TOC: headlines 3 local
+** Numeros Imaginarios 
+*** Determinar el valor de expresiones complejas y clasificarlas como reales o complejas.
+*** Calcular potencias de números imaginarios. Expresar números complejos en su forma canónica/vectorial.
+** Números complejos
+*** Obtener el conjugado y el módulo de un número complejo.
+*** Obtener el conjugado y el módulo de un número complejo.
+*** Resolver problemas aplicando las cuatro operaciones con números complejos.
+*** Obtener el inverso multiplicativo de un número complejo.
+*** Realizar operatoria combinada con números complejos.
+* Ecuación Cuadrática
+#+TOC: headlines 3 local
+** Identificar coeficientes numéricos en ecuaciones de segundo grado.
+** Obtienen soluciones de una ecuación de segundo grado, mediante inspección.
+** Resolución de ecuaciones cuadráticas incompletas de la forma $𝑎𝑥^{2}+𝑐=0$.
+** Resolución de ecuaciones cuadráticas binomiales, de la forma $𝑎𝑥^{2}+𝑏𝑥=0$ mediante el método de la factorización.
+** Resolución de ecuaciones cuadráticas completas de la forma $𝑎𝑥^{2} + 𝑏𝑥 + 𝑐 = 0$, caso trinomio factorizable.
+** Resolución de ecuaciones cuadráticas mediante fórmula general.
+* Función Cuadrática
+#+TOC: headlines 3 local
+** Analiza la función cuadrática determinando sus principales características.
+** Establece posibles soluciones mediante análisis de discriminante.
+** Determina vértice, eje de simetría y orientación parábola.
+** Modela situaciones y resuelve problemas utilizando la función cuadrática.
+* Geometría Cartesiana
+#+TOC: headlines 3 local
+** Plano Cartesiano
+*** Definición analítica del plano cartesiano (PC), elementos
+Al pensar en el plano, lo primero que visualizamos es la idea de una pared o un piso, entendemos de esta forma que al usar el concepto de plano también hablamos de una situación en la que no existen vacíos, saltos o agujeros. En matemática, y en particular en geometría, el concepto no es muy distinto. Sin embargo, lo más importante en este concepto desde la matemática, no es tanto su carácter "plano" sino el hecho que permite situarnos referencialmente con respecto a un punto común. La idea es sencilla: *un plano es un sistema de referencia*, de modo que permite visualizar ahora no solo un punto (o figura) en él, sino además, conocer su *posición*.
+
+*** Punto medio entre dos puntos
+*** Distancia entre dos puntos
+*** Aplicación del cálculo de magnitudes lineales de figuras planas
+** Ecuación de la recta (ER)
+*** Relacionar la función afín con la ER
+*** Formas principal y general de la recta
+*** Elementos: pendiente & coeficiente de posición
+*** Determinar la ER que pasa por dos puntos
+*** Determinar la ER dado punto-pendiente
+*** Posición relativa de rectas en el plano (paralelismo, perpendicularidad & secantes)
+*** Analizar gráficos de soluciones de Sistemas de Ecuaciones Lineales (SEL): paralelismo, coincidencia & intersección.
+* Homotecias
+#+TOC: headlines 3 local
+*** Determinar la imagen homotética de una figura, dadas sus coordenadas y el factor
+*** Identificar las propiedades de las Homotecias en el PC
+* Datos y Azar
+#+TOC: headlines 3 local
+** Concepto de Probabilidad Clásica (Laplace)
+** Probabilidad Condicionada
+*** Cálculo de probabilidad condicionada, diferencia de probabilidades de sucesos independientes.
+*** Cálculo de probabilidad de sucesos dependientes.
+** Función de probabilidad
+*** Definición de función de probabilidad
+*** Definición de función de distribución
+*** Representación gráfica de la distribución de probabilidad y de distribución
+** Varianza & desviación estándar
+*** Definición a partir de los conceptos de media ponderada el concepto de varianza y de desviación estándar.
